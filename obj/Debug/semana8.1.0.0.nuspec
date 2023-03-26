@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>semana8</id>
+    <version>1.0.0</version>
+    <authors>semana8</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ALEXIS\source\repos\semana8\bin\Debug\net6.0\semana8.runtimeconfig.json" target="lib\net6.0\semana8.runtimeconfig.json" />
+    <file src="C:\Users\ALEXIS\source\repos\semana8\bin\Debug\net6.0\semana8.dll" target="lib\net6.0\semana8.dll" />
+  </files>
+</package>
